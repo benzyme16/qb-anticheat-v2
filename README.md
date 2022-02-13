@@ -1,4 +1,4 @@
-# qb-anticheat
+# qb-anticheat-v2
 Anticheat System For QB-Core
 
 # License
